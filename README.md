@@ -8,4 +8,9 @@
 Use this link to access the application: [Link](https://shalah.github.io/day-planner/)
 
 ## Developer
-Rim Zoungrana
+- Rim Zoungrana
+- github.com/Shalah
+
+## License
+
+Licensed under the [MIT License](LICENSE)
